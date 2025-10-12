@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color: tomato;
+    font-family: 'Courier New', monospace;
+}
+h2{
+    text-align: center;
+    color: tomato;
+    font-family: 'Courier New', monospace;
+}
+body{
+    font-family: monospace, Courier New;
+    margin: 20px;
+    padding: 20px;
+    background-color: blanchedalmond;
+}
+.intro{
+    font-size: 20px;
+    text-align: justify;
+    margin: 20px;}
+img{
+    object-fit: contain;
+    padding: 30px;
+    width: 50%;}
+
+table{
+        font-family:'Courier New', monospace;
+        padding:20px;
+    }
